@@ -14,5 +14,6 @@ function draw() {
     fill(textColour);
     text(myText,x+55,y+30);
     text(textSize);
+    
 
   }
